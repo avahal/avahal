@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @avahal
-- 👀 I’m interested in product management
-- 🌱 I’m currently learning about developing assistive technology
-- 💞️ I’m looking to collaborate on anything to do with accessibility online (a11y)
 - 📫 How to reach me www.linkedin.com/in/avahalvai
 
 <!---
